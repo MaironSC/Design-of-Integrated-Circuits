@@ -1,0 +1,61 @@
+T-Spice - Tanner SPICE
+Version 16.01
+Network license
+Product Release ID: T-Spice Win64 16.01.20130407.21:15:40
+Copyright © 1988-2013 Tanner EDA
+
+	Parsing "C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito Completo\FCOMPLETO - SPICE\F-COMPLETO.sp"
+
+Start of CIRCUIT C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito Completo\CIRCUITO COMPLETO - MICROWIND\F1eF2eF3.MSK
+Loaded MOSLevel3 model library, SPICE Level 3 MOSFET
+
+	Opening simulation database "C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito Completo\FCOMPLETO - SPICE\F-COMPLETO.tsim"
+Warning : "F-COMPLETO.sp" line 29 Device MN1 - Source perimeter (PS) is zero
+Warning : "F-COMPLETO.sp" line 29 Device MN1 - Drain perimeter (PD) is zero
+Warning : "F-COMPLETO.sp" line 30 Device MN2 - Source perimeter (PS) is zero
+Warning : "F-COMPLETO.sp" line 30 Device MN2 - Drain perimeter (PD) is zero
+Warning : "F-COMPLETO.sp" line 31 Device MN3 - Source perimeter (PS) is zero
+Warning : "F-COMPLETO.sp" line 31 Device MN3 - Drain perimeter (PD) is zero
+Warning : "F-COMPLETO.sp" line 32 Device MN4 - Source perimeter (PS) is zero
+Warning : "F-COMPLETO.sp" line 32 Device MN4 - Drain perimeter (PD) is zero
+Warning : "F-COMPLETO.sp" line 33 Device MN5 - Source perimeter (PS) is zero
+Warning : "F-COMPLETO.sp" line 33 Device MN5 - Drain perimeter (PD) is zero
+
+Warning : Disabling printout of duplicate warning messages.
+        : 	Use '.options maxmsg=0' to view all warnings,
+        : 	or increase maxmsg from 5 to view more messages.
+
+Warning : Node > is not in this circuit
+Warning : Node out.txt is not in this circuit
+Warning : "F-COMPLETO.sp" line 104 Node 31 is attached to only one device (C31)
+Warning : "F-COMPLETO.sp" line 106 Node 33 is attached to only one device (C33)
+Warning : "F-COMPLETO.sp" line 108 Node 35 is attached to only one device (C35)
+Warning : "F-COMPLETO.sp" line 109 Node 36 is attached to only one device (C36)
+Warning : "F-COMPLETO.sp" line 110 Node 37 is attached to only one device (C37)
+
+General options:
+           temp = 27 [deg C]          threads = 2
+
+ Device and node counts:
+              MOSFETs -      46
+    MOSFET geometries -       7
+           Capacitors -      57
+      Voltage sources -       5
+          Subcircuits -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      51
+       Boundary nodes -       6
+          Total nodes -      57
+*** 18 WARNING MESSAGES GENERATED DURING SETUP
+
+
+Parsing                      0.01 seconds
+Setup                        0.04 seconds
+DC operating point           0.01 seconds
+Transient Analysis           0.80 seconds
+Overhead                     0.47 seconds
+-----------------------------------------
+Total                        1.33 seconds
+
+Simulation completed	with  18 Warnings

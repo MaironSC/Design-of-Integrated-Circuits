@@ -1,0 +1,138 @@
+Circuit: * Nome do aluno: Mairon Schneider Cardoso
+
+Vind: Removing PWL point (6.3e-008,0)
+Vinb: Removing PWL point (1.8e-008,1)
+Vinb: Removing PWL point (4.2e-008,0)
+Vina: Removing PWL point (3e-009,0)
+Vina: Removing PWL point (6e-009,0)
+Vina: Removing PWL point (2.1e-008,0)
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+atrasoa000hl=7.12204e-011 FROM 1.02473e-009 TO 1.09595e-009
+atrasoa000lh=1.00714e-010 FROM 2.02468e-009 TO 2.12539e-009
+atrasoa001hl=6.58014e-011 FROM 4.0248e-009 TO 4.09061e-009
+atrasoa001lh=1.00732e-010 FROM 5.02469e-009 TO 5.12542e-009
+atrasoa010hl=8.42468e-011 FROM 8.02494e-009 TO 8.10919e-009
+atrasoa010lh=1.01845e-010 FROM 7.02541e-009 TO 7.12725e-009
+atrasoa011hl=8.43952e-011 FROM 1.10249e-008 TO 1.11093e-008
+atrasoa011lh=1.03726e-010 FROM 1.00257e-008 TO 1.01294e-008
+atrasoa100hl=6.92771e-011 FROM 1.40249e-008 TO 1.40942e-008
+atrasoa100lh=8.38328e-011 FROM 1.30254e-008 TO 1.31093e-008
+atrasoa101hl=6.93135e-011 FROM 1.70249e-008 TO 1.70943e-008
+atrasoa101lh=8.48364e-011 FROM 1.60256e-008 TO 1.61105e-008
+atrasoa110hl=6.59557e-011 FROM 1.90253e-008 TO 1.90912e-008
+atrasoa110lh=8.10243e-011 FROM 2.00248e-008 TO 2.01058e-008
+atraso0b00hl=6.2672e-011 FROM 2.20239e-008 TO 2.20866e-008
+atraso0b00lh=9.18667e-011 FROM 2.30232e-008 TO 2.31151e-008
+atraso0b01hl=5.92131e-011 FROM 2.5024e-008 TO 2.50832e-008
+atraso0b01lh=9.27128e-011 FROM 2.60233e-008 TO 2.6116e-008
+atraso0b10hl=8.75951e-011 FROM 2.90223e-008 TO 2.91099e-008
+atraso0b10lh=1.18323e-010 FROM 2.80247e-008 TO 2.8143e-008
+atraso0b11hl=8.76156e-011 FROM 3.20222e-008 TO 3.21098e-008
+atraso0b11lh=1.1131e-010 FROM 3.10245e-008 TO 3.11359e-008
+atraso1b00hl=6.32716e-011 FROM 3.50233e-008 TO 3.50866e-008
+atraso1b00lh=7.45392e-011 FROM 3.40233e-008 TO 3.40978e-008
+atraso1b01hl=6.57459e-011 FROM 3.80246e-008 TO 3.80904e-008
+atraso1b01lh=7.59833e-011 FROM 3.70239e-008 TO 3.70999e-008
+atraso1b10hl=5.68738e-011 FROM 4.00232e-008 TO 4.00801e-008
+atraso1b10lh=7.40244e-011 FROM 4.10228e-008 TO 4.10969e-008
+atraso00c0hl=5.87171e-011 FROM 4.30236e-008 TO 4.30824e-008
+atraso00c0lh=8.65624e-011 FROM 4.4023e-008 TO 4.41095e-008
+atraso00c1hl=5.48852e-011 FROM 4.60236e-008 TO 4.60785e-008
+atraso00c1lh=8.6482e-011 FROM 4.7023e-008 TO 4.71094e-008
+atraso01c0hl=8.45566e-011 FROM 5.0022e-008 TO 5.01065e-008
+atraso01c0lh=1.09776e-010 FROM 4.9023e-008 TO 4.91328e-008
+atraso01c1hl=8.45978e-011 FROM 5.30219e-008 TO 5.31065e-008
+atraso01c1lh=1.07396e-010 FROM 5.2023e-008 TO 5.21304e-008
+atraso10c0hl=7.44737e-011 FROM 5.6022e-008 TO 5.60964e-008
+atraso10c0lh=8.32996e-011 FROM 5.50231e-008 TO 5.51064e-008
+atraso10c1hl=7.43198e-011 FROM 5.90219e-008 TO 5.90963e-008
+atraso10c1lh=8.39449e-011 FROM 5.80231e-008 TO 5.8107e-008
+atraso11c0hl=4.58694e-011 FROM 6.10243e-008 TO 6.10702e-008
+atraso11c0lh=5.98746e-011 FROM 6.20227e-008 TO 6.20826e-008
+atraso111dhl=5.17204e-011 FROM 6.50124e-008 TO 6.50642e-008
+atraso111dlh=5.09961e-011 FROM 6.4012e-008 TO 6.4063e-008
+consumo_medio: AVG(i(v1)*-v(vdd))=4.78488e-006 FROM 0 TO 6.6e-008
+consumo_estatico_a000hl: AVG(i(v1)*-v(vdd))=3.8128e-008 FROM 1.97e-009 TO 2e-009
+consumo_estatico_a000lh: AVG(i(v1)*-v(vdd))=1.71644e-007 FROM 2.97e-009 TO 3e-009
+consumo_estatico_a001hl: AVG(i(v1)*-v(vdd))=4.0493e-008 FROM 4.97e-009 TO 5e-009
+consumo_estatico_a001lh: AVG(i(v1)*-v(vdd))=1.7153e-007 FROM 5.97e-009 TO 6e-009
+consumo_estatico_a010hl: AVG(i(v1)*-v(vdd))=9.24912e-008 FROM 7.97e-009 TO 8e-009
+consumo_estatico_a010lh: AVG(i(v1)*-v(vdd))=5.0563e-008 FROM 8.97e-009 TO 9e-009
+consumo_estatico_a011hl: AVG(i(v1)*-v(vdd))=5.37194e-008 FROM 1.097e-008 TO 1.1e-008
+consumo_estatico_a011lh: AVG(i(v1)*-v(vdd))=3.69259e-008 FROM 1.197e-008 TO 1.2e-008
+consumo_estatico_a100hl: AVG(i(v1)*-v(vdd))=1.20991e-008 FROM 1.397e-008 TO 1.4e-008
+consumo_estatico_a100lh: AVG(i(v1)*-v(vdd))=3.88385e-008 FROM 1.497e-008 TO 1.5e-008
+consumo_estatico_a101hl: AVG(i(v1)*-v(vdd))=1.32283e-008 FROM 1.697e-008 TO 1.7e-008
+consumo_estatico_a101lh: AVG(i(v1)*-v(vdd))=4.17027e-008 FROM 1.797e-008 TO 1.8e-008
+consumo_estatico_a110hl: AVG(i(v1)*-v(vdd))=1.26193e-007 FROM 1.997e-008 TO 2e-008
+consumo_estatico_a110lh: AVG(i(v1)*-v(vdd))=1.48434e-007 FROM 2.097e-008 TO 2.1e-008
+consumo_estatico_0b00hl: AVG(i(v1)*-v(vdd))=5.49552e-008 FROM 2.297e-008 TO 2.3e-008
+consumo_estatico_0b00lh: AVG(i(v1)*-v(vdd))=1.78585e-007 FROM 2.397e-008 TO 2.4e-008
+consumo_estatico_0b01hl: AVG(i(v1)*-v(vdd))=4.92956e-008 FROM 2.597e-008 TO 2.6e-008
+consumo_estatico_0b01lh: AVG(i(v1)*-v(vdd))=1.78628e-007 FROM 2.697e-008 TO 2.7e-008
+consumo_estatico_0b10hl: AVG(i(v1)*-v(vdd))=1.70755e-007 FROM 2.897e-008 TO 2.9e-008
+consumo_estatico_0b10lh: AVG(i(v1)*-v(vdd))=8.73219e-008 FROM 2.997e-008 TO 3e-008
+consumo_estatico_0b11hl: AVG(i(v1)*-v(vdd))=1.36438e-007 FROM 3.197e-008 TO 3.2e-008
+consumo_estatico_0b11lh: AVG(i(v1)*-v(vdd))=8.28474e-008 FROM 3.297e-008 TO 3.3e-008
+consumo_estatico_1b00hl: AVG(i(v1)*-v(vdd))=1.23538e-008 FROM 3.497e-008 TO 3.5e-008
+consumo_estatico_1b00lh: AVG(i(v1)*-v(vdd))=4.13061e-008 FROM 3.597e-008 TO 3.6e-008
+consumo_estatico_1b01hl: AVG(i(v1)*-v(vdd))=1.35702e-008 FROM 3.797e-008 TO 3.8e-008
+consumo_estatico_1b01lh: AVG(i(v1)*-v(vdd))=5.09446e-008 FROM 3.897e-008 TO 3.9e-008
+consumo_estatico_1b10hl: AVG(i(v1)*-v(vdd))=1.4684e-007 FROM 4.097e-008 TO 4.1e-008
+consumo_estatico_1b10lh: AVG(i(v1)*-v(vdd))=8.64744e-008 FROM 4.197e-008 TO 4.2e-008
+consumo_estatico_00c0hl: AVG(i(v1)*-v(vdd))=6.13317e-008 FROM 4.397e-008 TO 4.4e-008
+consumo_estatico_00c0lh: AVG(i(v1)*-v(vdd))=1.7759e-007 FROM 4.497e-008 TO 4.5e-008
+consumo_estatico_00c1hl: AVG(i(v1)*-v(vdd))=5.82249e-008 FROM 4.697e-008 TO 4.7e-008
+consumo_estatico_00c1lh: AVG(i(v1)*-v(vdd))=1.77344e-007 FROM 4.797e-008 TO 4.8e-008
+consumo_estatico_01c0hl: AVG(i(v1)*-v(vdd))=1.60761e-007 FROM 4.997e-008 TO 5e-008
+consumo_estatico_01c0lh: AVG(i(v1)*-v(vdd))=4.63703e-008 FROM 5.097e-008 TO 5.1e-008
+consumo_estatico_01c1hl: AVG(i(v1)*-v(vdd))=1.67759e-007 FROM 5.297e-008 TO 5.3e-008
+consumo_estatico_01c1lh: AVG(i(v1)*-v(vdd))=4.60034e-008 FROM 5.397e-008 TO 5.4e-008
+consumo_estatico_10c0hl: AVG(i(v1)*-v(vdd))=6.727e-008 FROM 5.597e-008 TO 5.6e-008
+consumo_estatico_10c0lh: AVG(i(v1)*-v(vdd))=4.04024e-008 FROM 5.697e-008 TO 5.7e-008
+consumo_estatico_10c1hl: AVG(i(v1)*-v(vdd))=6.06559e-008 FROM 5.897e-008 TO 5.9e-008
+consumo_estatico_10c1lh: AVG(i(v1)*-v(vdd))=4.08891e-008 FROM 5.997e-008 TO 6e-008
+consumo_estatico_11c0hl: AVG(i(v1)*-v(vdd))=1.46386e-007 FROM 6.197e-008 TO 6.2e-008
+consumo_estatico_11c0lh: AVG(i(v1)*-v(vdd))=1.17912e-008 FROM 6.297e-008 TO 6.3e-008
+consumo_estatico_111dhl: AVG(i(v1)*-v(vdd))=4.99482e-008 FROM 6.497e-008 TO 6.5e-008
+consumo_estatico_111dlh: AVG(i(v1)*-v(vdd))=7.83996e-008 FROM 6.597e-008 TO 6.6e-008
+
+
+Date: Thu Jun 03 14:00:32 2021
+Total elapsed time: 1.647 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 7966
+traniter = 7510
+tranpoints = 2396
+accept = 2291
+rejected = 105
+matrix size = 324
+fillins = 54
+solver = Normal
+Thread vector: 166.2/91.6[4] 19.2/26.3[1] 15.3/133.6[1] 3.2/40.6[1]  2592/500
+Matrix Compiler1: 57.60 KB object code size  18.9/8.9/[5.8]
+Matrix Compiler2: 42.02 KB object code size  8.7/7.4/[7.1]
+

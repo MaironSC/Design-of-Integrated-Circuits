@@ -1,0 +1,60 @@
+T-Spice - Tanner SPICE
+Version 16.01
+Network license
+Product Release ID: T-Spice Win64 16.01.20130407.21:15:40
+Copyright © 1988-2013 Tanner EDA
+
+	Parsing "C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito 2\F2 - SPICE\F2 - SPICE.sp"
+Warning : "F2 - SPICE.sp" line 116 .plot not supported, using .print instead
+
+Start of CIRCUIT C:\Users\MaironSC\Desktop\Microwind 3\circuito.msk
+Loaded MOSLevel3 model library, SPICE Level 3 MOSFET
+
+	Opening simulation database "C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito 2\F2 - SPICE\F2 - SPICE.tsim"
+Warning : "F2 - SPICE.sp" line 27 Device MN1 - Source perimeter (PS) is zero
+Warning : "F2 - SPICE.sp" line 27 Device MN1 - Drain perimeter (PD) is zero
+Warning : "F2 - SPICE.sp" line 28 Device MN2 - Source perimeter (PS) is zero
+Warning : "F2 - SPICE.sp" line 28 Device MN2 - Drain perimeter (PD) is zero
+Warning : "F2 - SPICE.sp" line 29 Device MN3 - Source perimeter (PS) is zero
+Warning : "F2 - SPICE.sp" line 29 Device MN3 - Drain perimeter (PD) is zero
+Warning : "F2 - SPICE.sp" line 30 Device MN4 - Source perimeter (PS) is zero
+Warning : "F2 - SPICE.sp" line 30 Device MN4 - Drain perimeter (PD) is zero
+Warning : "F2 - SPICE.sp" line 31 Device MN5 - Source perimeter (PS) is zero
+Warning : "F2 - SPICE.sp" line 31 Device MN5 - Drain perimeter (PD) is zero
+
+Warning : Disabling printout of duplicate warning messages.
+        : 	Use '.options maxmsg=0' to view all warnings,
+        : 	or increase maxmsg from 5 to view more messages.
+
+Warning : "F2 - SPICE.sp" line 75 Node 20 is attached to only one device (C20)
+Warning : "F2 - SPICE.sp" line 76 Node 21 is attached to only one device (C21)
+Warning : "F2 - SPICE.sp" line 79 Node 24 is attached to only one device (C24)
+Warning : "F2 - SPICE.sp" line 80 Node 25 is attached to only one device (C25)
+Warning : "F2 - SPICE.sp" line 81 Node 26 is attached to only one device (C26)
+
+General options:
+           temp = 27 [deg C]          threads = 1
+
+ Device and node counts:
+              MOSFETs -      30
+    MOSFET geometries -       5
+           Capacitors -      35
+      Voltage sources -       4
+          Subcircuits -       0
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      31
+       Boundary nodes -       5
+          Total nodes -      36
+*** 17 WARNING MESSAGES GENERATED DURING SETUP
+
+
+Parsing                      0.01 seconds
+Setup                        0.04 seconds
+DC operating point           0.01 seconds
+Transient Analysis           0.29 seconds
+Overhead                     1.21 seconds
+-----------------------------------------
+Total                        1.54 seconds
+
+Simulation completed	with  17 Warnings

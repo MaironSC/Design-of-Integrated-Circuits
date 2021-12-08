@@ -1,0 +1,67 @@
+Circuit: CIRCUIT C:\Users\MaironSC\Desktop\CCI TRAB 2\Circuito 1\F1.MSK
+
+Model "p1": Oxide thickness thinner than recommended for a level 3 MOSFET.
+Model "n1": Oxide thickness thinner than recommended for a level 3 MOSFET.
+WARNING: Node 9 is floating.
+WARNING: Node 10 is floating.
+WARNING: Node 11 is floating.
+WARNING: Node 13 is floating.
+WARNING: Node 15 is floating.
+WARNING: Node 16 is floating.
+WARNING: Node 17 is floating.
+WARNING: Node 19 is floating.
+WARNING: Node 20 is floating.
+WARNING: Node 21 is floating.
+WARNING: Node 22 is floating.
+
+WARNING: Less than two connections to node 9.  This node is used by C9.
+WARNING: Less than two connections to node 10.  This node is used by C10.
+WARNING: Less than two connections to node 11.  This node is used by C11.
+WARNING: Less than two connections to node 13.  This node is used by C13.
+WARNING: Less than two connections to node 15.  This node is used by C15.
+WARNING: Less than two connections to node 16.  This node is used by C16.
+WARNING: Less than two connections to node 17.  This node is used by C17.
+WARNING: Less than two connections to node 19.  This node is used by C19.
+WARNING: Less than two connections to node 20.  This node is used by C20.
+WARNING: Less than two connections to node 21.  This node is used by C21.
+WARNING: Less than two connections to node 22.  This node is used by C22.
+Instance "mp5": Length shorter than recommended for a level 3 MOSFET.
+Instance "mp5": Width narrower than recommended for a level 3 MOSFET.
+Instance "mp4": Length shorter than recommended for a level 3 MOSFET.
+Instance "mp4": Width narrower than recommended for a level 3 MOSFET.
+Instance "mp3": Length shorter than recommended for a level 3 MOSFET.
+Instance "mp3": Width narrower than recommended for a level 3 MOSFET.
+Instance "mp2": Length shorter than recommended for a level 3 MOSFET.
+Instance "mp2": Width narrower than recommended for a level 3 MOSFET.
+Instance "mp1": Length shorter than recommended for a level 3 MOSFET.
+Instance "mp1": Width narrower than recommended for a level 3 MOSFET.
+Instance "mn5": Length shorter than recommended for a level 3 MOSFET.
+Instance "mn5": Width narrower than recommended for a level 3 MOSFET.
+Instance "mn4": Length shorter than recommended for a level 3 MOSFET.
+Instance "mn4": Width narrower than recommended for a level 3 MOSFET.
+Instance "mn3": Length shorter than recommended for a level 3 MOSFET.
+Instance "mn3": Width narrower than recommended for a level 3 MOSFET.
+Instance "mn2": Length shorter than recommended for a level 3 MOSFET.
+Instance "mn2": Width narrower than recommended for a level 3 MOSFET.
+Instance "mn1": Length shorter than recommended for a level 3 MOSFET.
+Instance "mn1": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jun 23 13:45:01 2021
+Total elapsed time: 0.125 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 8518
+traniter = 8509
+tranpoints = 2500
+accept = 2177
+rejected = 323
+matrix size = 26
+fillins = 0
+solver = Normal
+Thread vector: 4.9/3.9[2] 2.8/2.6[1] 0.4/1.0[1] 0.1/1.6[1]  2592/500
+Matrix Compiler1: 894 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.72 KB object code size  0.1/0.3/[0.1]
+
